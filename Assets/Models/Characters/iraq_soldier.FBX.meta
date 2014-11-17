@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 1fbe9f313e16a08448a105e9eb6a6391
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Iraq_Soldier_Body
+    100004: Iraq_Soldier_Eye_Left
+    100006: Iraq_Soldier_Eye_Right
+    100008: Iraq_Soldier_Head
+    100010: Iraq_Soldier_Mask
+    100012: Iraq_Soldier_Vest
+    100014: Iraq_Soldier_Vest_Bag
+    100016: Iraq_Soldier_Vest_Bag_Strap
+    100018: Iraq_Soldier_Vest_Belt
+    100020: Iraq_Soldier_Vest_Lowwer_Straps
+    100022: Iraq_Soldier_Vest_Pouch_1
+    100024: Iraq_Soldier_Vest_Pouch_2
+    100026: Iraq_Soldier_Vest_Pouch_3
+    100028: Iraq_Soldier_Vest_Straps
+    400000: //RootNode
+    400002: Iraq_Soldier_Body
+    400004: Iraq_Soldier_Eye_Left
+    400006: Iraq_Soldier_Eye_Right
+    400008: Iraq_Soldier_Head
+    400010: Iraq_Soldier_Mask
+    400012: Iraq_Soldier_Vest
+    400014: Iraq_Soldier_Vest_Bag
+    400016: Iraq_Soldier_Vest_Bag_Strap
+    400018: Iraq_Soldier_Vest_Belt
+    400020: Iraq_Soldier_Vest_Lowwer_Straps
+    400022: Iraq_Soldier_Vest_Pouch_1
+    400024: Iraq_Soldier_Vest_Pouch_2
+    400026: Iraq_Soldier_Vest_Pouch_3
+    400028: Iraq_Soldier_Vest_Straps
+    2300000: Iraq_Soldier_Body
+    2300002: Iraq_Soldier_Eye_Left
+    2300004: Iraq_Soldier_Eye_Right
+    2300006: Iraq_Soldier_Head
+    2300008: Iraq_Soldier_Mask
+    2300010: Iraq_Soldier_Vest
+    2300012: Iraq_Soldier_Vest_Bag
+    2300014: Iraq_Soldier_Vest_Bag_Strap
+    2300016: Iraq_Soldier_Vest_Belt
+    2300018: Iraq_Soldier_Vest_Lowwer_Straps
+    2300020: Iraq_Soldier_Vest_Pouch_1
+    2300022: Iraq_Soldier_Vest_Pouch_2
+    2300024: Iraq_Soldier_Vest_Pouch_3
+    2300026: Iraq_Soldier_Vest_Straps
+    3300000: Iraq_Soldier_Body
+    3300002: Iraq_Soldier_Eye_Left
+    3300004: Iraq_Soldier_Eye_Right
+    3300006: Iraq_Soldier_Head
+    3300008: Iraq_Soldier_Mask
+    3300010: Iraq_Soldier_Vest
+    3300012: Iraq_Soldier_Vest_Bag
+    3300014: Iraq_Soldier_Vest_Bag_Strap
+    3300016: Iraq_Soldier_Vest_Belt
+    3300018: Iraq_Soldier_Vest_Lowwer_Straps
+    3300020: Iraq_Soldier_Vest_Pouch_1
+    3300022: Iraq_Soldier_Vest_Pouch_2
+    3300024: Iraq_Soldier_Vest_Pouch_3
+    3300026: Iraq_Soldier_Vest_Straps
+    4300000: Iraq_Soldier_Head
+    4300002: Iraq_Soldier_Vest_Bag_Strap
+    4300004: Iraq_Soldier_Vest_Bag
+    4300006: Iraq_Soldier_Vest_Straps
+    4300008: Iraq_Soldier_Vest_Belt
+    4300010: Iraq_Soldier_Vest_Lowwer_Straps
+    4300012: Iraq_Soldier_Vest
+    4300014: Iraq_Soldier_Mask
+    4300016: Iraq_Soldier_Body
+    4300018: Iraq_Soldier_Vest_Pouch_3
+    4300020: Iraq_Soldier_Vest_Pouch_2
+    4300022: Iraq_Soldier_Vest_Pouch_1
+    4300024: Iraq_Soldier_Eye_Right
+    4300026: Iraq_Soldier_Eye_Left
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
